@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1633264672 source:d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netclient\netclient\simpleserver.cpp
+	<iostream>
+	<olc_net.h>
+
+1633264845 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\olc_net.h
+	"net_common.h"
+	"net_message.h"
+	"net_server.h"
+	"net_client.h"
+
+1633013334 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\net_common.h
+	<memory>
+	<thread>
+	<mutex>
+	<deque>
+	<experimental/optional>
+	<vector>
+	<iostream>
+	<algorithm>
+	<chrono>
+	<cstdint>
+	<asio.hpp>
+	<asio/ts/buffer.hpp>
+	<asio/ts/internet.hpp>
+
+1633265240 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\net_message.h
+	"net_common.h"
+
+1633279044 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\net_server.h
+	"net_common.h"
+	"net_tsqueue.h"
+	"net_message.h"
+	"net_connection.h"
+
+1633265301 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\net_tsqueue.h
+	"net_common.h"
+
+1633279322 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\net_connection.h
+	"net_common.h"
+	"net_tsqueue.h"
+	"net_message.h"
+
+1633265542 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\net_client.h
+	"net_common.h"
+	"net_tsqueue.h"
+	"net_message.h"
+	"net_connection.h"
+

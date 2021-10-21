@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1633015494 source:d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\netclient\simpleclient.cpp
+	<iostream>
+	<olc_net.h>
+
+1633013768 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\olc_net.h
+	"net_common.h"
+	"net_message.h"
+
+1633013334 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\net_common.h
+	<memory>
+	<thread>
+	<mutex>
+	<deque>
+	<experimental/optional>
+	<vector>
+	<iostream>
+	<algorithm>
+	<chrono>
+	<cstdint>
+	<asio.hpp>
+	<asio/ts/buffer.hpp>
+	<asio/ts/internet.hpp>
+
+1633016684 d:\game_dev\mahjong\mahjong\server\server_client_cb\projects\netcommon\net_message.h
+	"net_common.h"
+
